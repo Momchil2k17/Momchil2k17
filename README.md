@@ -4,7 +4,7 @@
 <h3 align="center">An ambitioned student ready to rush into the world of Programming</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=momchil2k17&label=Profile%20views&color=0e75b6&style=flat" alt="momchil2k17" /> </p>
+
 
 - 🌱 I’m currently learning **C#,HTML & CSS, JS**
 
