@@ -1,8 +1,8 @@
-[![MasterHead](file:///C:/Users/momch/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B5%D0%BD%20%D0%BF%D0%BB%D0%BE%D1%82/1.png]
+
 
 <h1 align="center">Hi 👋, I'm Momchil Yankov</h1>
 <h3 align="center">An ambitioned student ready to rush into the world of Programming</h3>
-img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=momchil2k17&label=Profile%20views&color=0e75b6&style=flat" alt="momchil2k17" /> </p>
 
