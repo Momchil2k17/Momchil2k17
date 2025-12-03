@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **C#,HTML & CSS, JS**
+- 🌱 I’m currently learning **C#,HTML & CSS, JS, JAVA**
 
 - 📫 How to reach me **momoyankov@gmail.com**
 
